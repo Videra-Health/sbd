@@ -1,6 +1,13 @@
 Sentence Boundary Detection (SBD)
 =================================
 
+## Fork for Videra purposes: 
+
+We split into words ourselves, thus we need to create sentences from an array of words.
+So we added a new function `sentencesFromWords`, which accepts an array and further does the same as the `sentences` function.
+
+----------------------------------------------------------------------------------------------
+
 Split text into sentences with a `vanilla` rule based approach (i.e working ~95% of the time).
 
 * Split a text based on period, question- and exclamation marks.
