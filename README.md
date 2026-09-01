@@ -1,3 +1,5 @@
+[![AI Review Policy: Autonomous](https://img.shields.io/badge/AI%20Review%20Policy-%E2%9A%A1%20Autonomous-1F883D?style=flat-square&labelColor=24292f)](https://app.superthread.com/viderahealth/page-930-ai-development-policy)
+
 Sentence Boundary Detection (SBD)
 =================================
 
